@@ -3,10 +3,20 @@ Area do Entregador DAKI , projeto começando a ser baseado em arquitetura clean 
 
 
 
+![Captura de tela 2021-11-02 092845](https://user-images.githubusercontent.com/80254945/139846377-a1a496c2-c5bf-42f1-b770-cd6ffeaf18b7.jpg)
 
 
 
-![82d8985f-468d-4729-9de8-d451d937e231](https://user-images.githubusercontent.com/80254945/139845972-c6ea2231-daf6-47f2-8720-624ae513cfa5.jpg)
+![Captura de tela 2021-11-02 092934](https://user-images.githubusercontent.com/80254945/139846517-c542ea1f-b750-4ff5-93dc-578710332992.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
